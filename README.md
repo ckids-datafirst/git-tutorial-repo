@@ -1,5 +1,7 @@
 # Kittens Story
 
+![Kittens](images/kittens.png)
+
 Onec upon a time, in a smal vilage, ther were three cuet little kttens. They were the fluffist, most adorabul creatuers you could ever imagene. Thier names were Wiskers, Mables, and Sparkels.
 
 Wiskers was a mischevous kttten, alwais geting into trubble. One day, he decide to clmb to the top of the refregerator, but he sliped and fell into a bowle of mik. "Oh no!" said Wiskers, "I'm all wett now!"
@@ -15,4 +17,5 @@ As the party begen, the kttens entertaned the gests with their cute antiks. They
 At the end of the day, the kttens were exauted but happy. They had made lots of new frends, and they had lots of phtos taken with the gests. Wiskers, Mables, and Sparkels were the stars of the show, and they were the talk of the vilage for weeks to come.
 
 ## The End
+
 Please remember that using typos in actual documentation or README.md files is not recommended, as it can lead to confusion and misunderstandings. It's important to maintain good writing practices and proofread your documentation for clarity and professionalism.
