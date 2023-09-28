@@ -1,6 +1,6 @@
 # Heading 1
 
-This is a sample paragraf with a typoe.
+This is a sample paragraf with a typo.
 
 1. Item 1
 2. Item 2
