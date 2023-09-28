@@ -2,7 +2,7 @@
 
 ![Kittens](images/kittens.png)
 
-Onec upon a time, in a smal vilage, ther were three cuet little kttens. They were the fluffist, most adorabul creatuers you could ever imagene. Thier names were Wiskers, Mables, and Sparkels.
+Once upon a time, in a smal vilage, ther were three cuet little kttens. They were the fluffist, most adorabul creatuers you could ever imagene. Thier names were Wiskers, Mables, and Sparkels.
 
 Wiskers was a mischevous kttten, alwais geting into trubble. One day, he decide to clmb to the top of the refregerator, but he sliped and fell into a bowle of mik. "Oh no!" said Wiskers, "I'm all wett now!"
 
